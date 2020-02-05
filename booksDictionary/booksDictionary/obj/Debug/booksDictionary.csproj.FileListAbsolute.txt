@@ -1,0 +1,7 @@
+\\train-dc2.training.local\Redirected Folders\tanveera\Desktop\Week 3\booksDictionary\booksDictionary\bin\Debug\booksDictionary.exe.config
+\\train-dc2.training.local\Redirected Folders\tanveera\Desktop\Week 3\booksDictionary\booksDictionary\bin\Debug\booksDictionary.exe
+\\train-dc2.training.local\Redirected Folders\tanveera\Desktop\Week 3\booksDictionary\booksDictionary\bin\Debug\booksDictionary.pdb
+\\train-dc2.training.local\Redirected Folders\tanveera\Desktop\Week 3\booksDictionary\booksDictionary\obj\Debug\booksDictionary.csprojAssemblyReference.cache
+\\train-dc2.training.local\Redirected Folders\tanveera\Desktop\Week 3\booksDictionary\booksDictionary\obj\Debug\booksDictionary.csproj.CoreCompileInputs.cache
+\\train-dc2.training.local\Redirected Folders\tanveera\Desktop\Week 3\booksDictionary\booksDictionary\obj\Debug\booksDictionary.exe
+\\train-dc2.training.local\Redirected Folders\tanveera\Desktop\Week 3\booksDictionary\booksDictionary\obj\Debug\booksDictionary.pdb
